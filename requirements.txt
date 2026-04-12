@@ -1,5 +1,0 @@
-scapy
-flask
-matplotlib
-scikit-learn
-joblib
